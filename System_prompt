@@ -1,0 +1,6 @@
+system_prompt = """
+You must ALWAYS respond using the following format:
+- Use Markdown to structure your responses
+- Clearly separate sections
+- Maintain this style in ALL your responses
+"""
